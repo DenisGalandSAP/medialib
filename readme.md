@@ -8,12 +8,12 @@ It contains 3 features for the moment,
 
 [Voice To Speech](#Voice-To-Speech)
 
+[Capture Image](#Capture-Image)
+
 ## Video Scanner Multi Type
 
 The Video Scanner Multi Type can scan multiple types of code, such as Barcode, Data Matrix or QR Code
 The instantiated component uses a dialog where a video player is running, and tries to find a scan code in one of the formats as stated as above, to return the associated text.
-
-<img src="./images/Multiscan.png" width="200">
 
 The component is based on [Andrey Danilin excellent blog post](https://blogs.sap.com/2021/02/01/native-js-zxing-scanner-in-sapui5/), which is based on [ZXing](https://zxing-js.github.io/library/)
 
