@@ -1,0 +1,16 @@
+{
+  "generator-ui5-library": {
+    "libraryname": "medialib",
+    "namespace": "flexso.be",
+    "framework": "SAPUI5",
+    "frameworkVersion": "1.86.3",
+    "author": "Denis Galand",
+    "newdir": true,
+    "namespaceURI": "flexso/be",
+    "librarynamespace": "flexso.be.medialib",
+    "librarynamespaceURI": "flexso/be/medialib",
+    "librarybasepath": "../../../",
+    "frameworklowercase": "sapui5",
+    "setupCompleted": true
+  }
+}

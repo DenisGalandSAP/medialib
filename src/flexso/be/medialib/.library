@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<library xmlns="http://www.sap.com/sap.ui.library.xsd">
+	<name>flexso.be.medialib</name>
+	<vendor>Denis Galand</vendor>
+	<version>${version}</version>
+	<copyright>${copyright}</copyright>
+	<title>medialib</title>
+	<documentation>Some description about medialib</documentation>
+	<dependencies>
+		<dependency>
+			<libraryName>sap.ui.core</libraryName>
+		</dependency>
+	</dependencies>
+</library>
